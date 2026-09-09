@@ -1,5 +1,31 @@
 # apm-npm-package
 
+Short description
+- Starter repository created from the `template-npm-shared-library` for WinCC OA APM NPM packages.
+
+Vision
+- See the single source-of-truth: [docs/VISION.md](docs/VISION.md). Update the vision first (interactive edits are supported) before expanding this README.
+
+Quick start
+- Inspect or edit the vision:
+  - Follow the interactive instructions in `.github/skills/update-vision/.instructions.md` to update `docs/VISION.md`.
+- Clear template changelog: see `.github/skills/clear-changelog/.instructions.md`.
+
+Included skills & utilities
+- Skills: `.github/skills/` (update-repo-description, clear-changelog, update-vision, init-git-branches, etc.)
+- Scripts: `scripts/update-org-repo-descriptions.ps1` — org-wide description update (dry-run and apply modes).
+
+Contributing
+- Make changes on a branch and open a PR. Follow existing repo conventions and run the scripts in dry-run mode before applying changes.
+
+Maintenance notes
+- This repository contains onboarding skills used to normalise newly-created repos from the template. Keep `docs/VISION.md` small and authoritative — this README will be updated after the vision is finalised.
+
+Contact
+- For infra/automation tasks, open an issue or contact the repository maintainers.
+
+# apm-npm-package
+
 npm package specific APM package for winccoa-tools-pack.
 
 ## Overview
