@@ -12,7 +12,7 @@ Quick start
 - Clear template changelog: see `.github/skills/clear-changelog/.instructions.md`.
 
 Included skills & utilities
-- Skills: `.github/skills/` (update-repo-description, clear-changelog, update-vision, init-git-branches, etc.)
+- Skills: `.github/skills/` (bootstrap-npm-repo, before-first-release, readme-badges, first-release, linkedin-release-post, update-repo-description, clear-changelog, update-vision, init-git-branches, etc.)
 - Scripts: `scripts/update-org-repo-descriptions.ps1` — org-wide description update (dry-run and apply modes).
 
 Contributing
